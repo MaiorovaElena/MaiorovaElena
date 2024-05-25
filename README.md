@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Привет👋 Меня зовут Елена!</h1>
-  <h3>Frontend Developer <img src="https://media.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif" width="35" alt="keyboard"/> </h3> 
+  <h3>Frontend разработчик <img src="https://media.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif" width="35" alt="keyboard"/> </h3> 
 </div>
 
 
