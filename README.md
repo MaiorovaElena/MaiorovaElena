@@ -64,7 +64,7 @@ const helen = {
   ###
 
    <div align="center">
-    <img src="https://www.codewars.com/users/Chuchundra009/badges/micro" height="30" alt="codewars"  />
+    <img src="https://www.codewars.com/users/MaiorovaElena/badges/micro" height="30" alt="codewars"  />
   </div>
   </div>
 
